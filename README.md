@@ -15,6 +15,8 @@ char	*get_next_line(int fd);
  - **File Descriptor Implementation**: We learned to effectively utilize file descriptors (fd) in our project, expanding our knowledge of handling input sources and enhancing overall program efficiency.
  - **Macro Implementation**: Understanding the use of macros in functions, such as defining values like `BUFFER_SIZE` in our header file, allowed for flexible and easily adjustable code configurations.
 
+# Grade  <p><img height="30px" src="https://img.shields.io/badge/-125%20%2F%20100-success" /></p>
+
 # Norminette 🪖
 At 42 School, we need to follow some strict rules when writing our code. These rules are described in the Norm and checked by the formidable `norminette`. Here are some of them:
 ```
