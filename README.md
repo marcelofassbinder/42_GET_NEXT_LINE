@@ -1,5 +1,9 @@
-# 42_GET_NEXT_LINE ↩️
-Reading a line from a fd is way too tedious.
+<h1 align=center>
+ 42_GET_NEXT_LINE ↩️
+</h1>
+<div align=center>
+ Reading a line from a fd is way too tedious.
+</div>
 
 # About ✍
 This project is part of the Rank 01 from 42 Common Core and focuses on creating a function designed to read a single line, delimited by a newline character, by accepting a file descriptor as a parameter. It offers a dynamic and efficient solution for processing and retrieving lines from diverse input sources, including files. When called in a loop, `get_next_line` returns all the contents of the file, one line at a time until the end of the file is reached. Also, this function works with any size of buffer size specified (as the subject asks).
